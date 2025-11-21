@@ -1,0 +1,13 @@
+.flex-container {
+  display: flex; /* Enables Flexbox */
+  justify-content: space-around; /* Distributes items with space around them */
+  align-items: center; /* Vertically aligns items in the center */
+  height: 100px; /* Sets a height for the container */
+}
+
+.flex-item {
+  background-color: #28a745; /* Green background */
+  color: white; /* White text color */
+  padding: 10px;
+  margin: 5px;
+}
