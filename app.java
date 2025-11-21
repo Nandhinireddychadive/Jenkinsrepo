@@ -1,8 +1,8 @@
 public class AddNumbers {
     public static void main(String[] args) {
-        int num1 = 5;
-        int num2 = 10;
+        int num1 = 10;
+        int num2 = 15
         int sum = num1 + num2;
-        System.out.println("The sum is: " + sum); // Output: The sum is: 15
+        System.out.println("The sum is: " + sum); // Output: The sum 15
     }
 }
